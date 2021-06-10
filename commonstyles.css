@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://cdn.jsdelivr.net/gh/ozonep/diggit-kc/bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1.8;
+}
+
+.invalid-feedback-kc {
+    display: block;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #dc3545;
+}
+
+.admin-img {
+    filter: invert(1);
+    margin-top: 10px;
+}
+
+.admin-lnk {
+    text-decoration: none;
+}
+
+@media (max-width: 424px) {
+    .g-recaptcha {
+        transform:scale(0.85) !important;
+        transform-origin:0 !important;
+   }
+ }
