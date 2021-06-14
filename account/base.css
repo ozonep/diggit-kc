@@ -684,8 +684,7 @@ button:-moz-focusring,
 
 @font-face {
   font-family: "pficon";
-  src: url("./assets/pficon/pficon.eot");
-  src: url("./assets/pficon/pficon.eot?#iefix") format("eot"), url("./assets/pficon/pficon.woff2") format("woff2"), url("./assets/pficon/pficon.woff") format("woff"), url("./assets/pficon/pficon.ttf") format("truetype"), url("./assets/pficon/pficon.svg#pficon") format("svg");
+  src: url("https://cdn.jsdelivr.net/gh/patternfly/patternfly/src/patternfly/assets/pficon/pficon.woff2") format("woff2");
 }
 
 .pf-icon-add-circle-o:before,
