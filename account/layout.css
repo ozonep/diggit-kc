@@ -12,11 +12,10 @@
     width: 120px;
     height: 50px;
   }
-
 }
 
 
 .pf-c-content h1,
 .pf-c-content h2 {
-  text-align: center
+  text-align: center !important;
 }
