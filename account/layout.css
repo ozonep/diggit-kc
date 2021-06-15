@@ -14,3 +14,9 @@
   }
 
 }
+
+
+.pf-c-content h1,
+.pf-c-content h2 {
+  text-align: center
+}
